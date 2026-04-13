@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonSeokPyo&animation=fadeIn&fontSize=50&fontAlignY=35)   
 <div align="center">
 <!--
 MoonSeokPyo's GitHub stats
@@ -22,7 +23,6 @@ MoonSeokPyo's GitHub stats
 ![MoonSeokPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonSeokPyo&show_icons=true&theme=tokyonight)     
 -->
 <!-- &textBg=true -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonSeokPyo&animation=fadeIn&fontSize=50&fontAlignY=35)   
 
 Solved.ac Profile
 ---
