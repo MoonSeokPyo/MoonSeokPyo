@@ -22,7 +22,7 @@ MoonSeokPyo's GitHub stats
 ![MoonSeokPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonSeokPyo&show_icons=true&theme=tokyonight)     
 -->
 <!-- &textBg=true -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonSeokPyo&animation=scaleIn&fontSize=50&fontAlignY=35)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonSeokPyo&animation=twinkling&fontSize=50&fontAlignY=35)   
 
 Solved.ac Profile
 ---
