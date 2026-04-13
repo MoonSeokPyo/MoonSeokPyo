@@ -26,8 +26,7 @@ MoonSeokPyo's GitHub stats
 
 Solved.ac Profile
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=happy1es)](https://solved.ac/happy1es)      
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy1es)](https://solved.ac/happy1es)      
 <!--
 Top Langs
 ---
