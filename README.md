@@ -26,8 +26,8 @@ MoonSeokPyo's GitHub stats
 
 Solved.ac Profile
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy1es)](https://solved.ac/happy1es)      
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=happy1es&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy1es)](https://solved.ac/happy1es)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=happy1es&theme=warm)   
 
 <!--
 <img src="http://mazandi.herokuapp.com/api?handle=happy1es&theme=warm"/>
