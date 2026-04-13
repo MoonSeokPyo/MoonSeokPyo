@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonSeokPyo&animation=fadeIn&fontSize=50&fontAlignY=35)   
-<div align="center">
 <!--
 MoonSeokPyo's GitHub stats
 ---
@@ -26,8 +25,10 @@ MoonSeokPyo's GitHub stats
 
 Solved.ac Profile
 ---
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy1es)](https://solved.ac/happy1es)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=happy1es&theme=warm)   
+</div>
 
 <!--
 <img src="http://mazandi.herokuapp.com/api?handle=happy1es&theme=warm"/>
@@ -36,4 +37,3 @@ Top Langs
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSeokPyo&layout=compact&theme=merko)      
 -->
-</div>
